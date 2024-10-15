@@ -1,0 +1,60 @@
+body {
+    background-image: url(./stopwathbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    text-transform: capitalize;
+    font-weight: 800;
+
+}
+
+.card {
+    text-align: center;
+    margin: 10px auto;
+    width: 600px;
+    /* border: 3px solid black;
+  border-radius: 30px; */
+    padding: 40px 10px;
+    color: black;
+    
+}
+
+#number {
+    width: 600px;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 40px 10px;
+    color: black;
+    margin-top: 130px;
+    /* padding: 20px; */
+    /* border-radius: 20px; */
+    background-color: rgba(0, 0, 0, 0.623);
+    box-shadow: 0 4px 8px 4px rgba(44, 43, 43, 0.9);
+    font-size: 100px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 50px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 0px;
+}
+
+button {
+    width: 150px;
+    height: 90px;
+    font-size: 27px;
+    border-radius: 50px;
+    color: white;
+    border: 4px solid black;
+}
